@@ -10,7 +10,7 @@
 
 ## Zadanie 3
 - Zapoznaj się z dziedziczeniem klas w pythonie (link)
-- Zapoznaj się z klasą subprocces https://docs.python.org/3/library/subprocess.html
+- Zapoznaj się z klasą subprocess https://docs.python.org/3/library/subprocess.html
 - Wypisz pliki znajdujące się w folderze aplikacji
 - Dowiedziedz się co znajduje się w tych plikach
 - Nadpisz jakiś plik
@@ -19,4 +19,4 @@
 - Wyłacz aplikacje zdalnie
 
 ## Zadanie 
-Poszukaj w internecie jak inaczej można dostać się do klasy subprocces lub jakiej innej klasy można uzyć do wykonania tych ćwiczeń.
+Poszukaj w internecie jak inaczej można dostać się do klasy subprocess lub jakiej innej klasy można uzyć do wykonania tych ćwiczeń.
