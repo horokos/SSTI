@@ -11,7 +11,7 @@
 ## Zadanie 3
 - Zapoznaj się z dziedziczeniem klas w pythonie https://www.geeksforgeeks.org/method-resolution-order-in-python-inheritance/ https://www.studytonight.com/python-howtos/how-to-find-all-the-subclasses-of-a-class-given-its-name
 - Zapoznaj się z klasą subprocess https://docs.python.org/3/library/subprocess.html
-- Uzywająć dziedziczenia klas i podklas znajdz klase subprocess. Wykorzystaj do tego np. string( '' ), tuple( () ) lub list( [] ) or metode __class__
+- Uzywająć dziedziczenia klas i podklas znajdz klase subprocess. Wykorzystaj do tego np. string( '' ), tuple( () ) lub list( [] ) oraz metode __class__
 - Wypisz pliki znajdujące się w folderze aplikacji
 - Dowiedziedz się co znajduje się w tych plikach
 - Nadpisz jakiś plik
