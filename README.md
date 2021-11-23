@@ -14,3 +14,7 @@ Zapoznaj się z klasą subprocces.Popen https://docs.python.org/3/library/subpro
 wypisać pliki znajdujące się w folderze aplikacji
 Dowiedziedz się co znajduje się w pliku secret
 Nadpisz plik secret
+
+
+## Zadanie 
+Poszukaj w internecie jak inaczej można dostać się do klasy Popen lub jakiej innej klasy można uzyć do wykonania tych ćwiczeń
