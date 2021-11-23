@@ -5,7 +5,7 @@
 - Wykonaj proste wyrażenie artymetyczne np. 2+2
 
 ## Zadanie 2
-- Zapoznaj się z budową aplikacji w Flask (link)
+- Zapoznaj się z budową aplikacji w Flask https://jinja.palletsprojects.com/en/3.0.x/templates/ https://flask.palletsprojects.com/en/2.0.x/config/
 - Wypisz config aplikacji
 
 ## Zadanie 3
