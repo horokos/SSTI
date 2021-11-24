@@ -28,9 +28,8 @@
 
 ## Mako
 
-|od tej części zadania będą wykonywane tylko w przeglądarce|  |
-|----------------------------------------------------------|--|
-|                                                          |  |
+|od tej części zadania będą wykonywane tylko w przeglądarce|
+|----------------------------------------------------------|
 
 
  - Zadanie będzie widoczne na stronie https://194.36.88.83/.
