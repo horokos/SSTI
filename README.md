@@ -18,8 +18,5 @@
 - Dowiedziedz się co znajduje się w tych plikach
 - Nadpisz jakiś plik
 
-### Zadanie 4
-- Wyłacz aplikacje zdalnie
-
 ### Zadanie 
 Poszukaj w internecie jak inaczej można dostać się do klasy subprocess lub jakiej innej klasy można uzyć do wykonania tych ćwiczeń.
