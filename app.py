@@ -2,7 +2,7 @@ from flask import Flask, request, render_template_string, get_flashed_messages
 
 app = Flask(__name__)
 
-app.config['Flag'] = 'ukryta flaga'
+app.config['Flag'] = 'zmhCTF{Im_g000d_@t_c0nfig_h3h3}'
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
