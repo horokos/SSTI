@@ -45,6 +45,9 @@
 - Spróbuj znaleźć, jakie komendy w PHP-ie są używane do wykonywania systemowych poleceń.
 - Flaga jest odpowiednio zaszyfrowana - czy jesteś w stanie odgadnąć czym?
 
+## VUEjs
+
+
 ## Dla ambitnych zadanie: Jade. Ale gdzie?
 - W poleceniu ukryta jest nazwa silnika templatek - proszę ją odszukać i sprawdzić, jaki język programowania wykorzystuje.
 - Znajdź w *tym* języku analogiczne struktury do tych pythona.
