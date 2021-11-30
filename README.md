@@ -6,7 +6,7 @@
 - Do wykonania ćwiczeń będzie ci potrzebny system z python3
 - Pobierz repozytorium na swoją maszyne `git clone https://github.com/horokos/SSTI`
 - Zainstaluj potrzebne moduły python `pip install -r requirements.txt` Jeśli nie masz pip `sudo apt install python3-pip`
-- Uruchom aplikacje `python3 app.py`
+- Uruchom aplikacje `python3 app.py` http://127.0.0.1:5000/
 
 ### Zadanie 1
 - Korzystając z [dokumentacji](https://jinja.palletsprojects.com/en/3.0.x/templates/), zapoznaj się ze składnią Jinjy2.
