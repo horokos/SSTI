@@ -51,6 +51,7 @@
 ## Dla ambitnych zadanie: Jade. Ale gdzie?
 - W poleceniu ukryta jest nazwa silnika templatek - proszę ją odszukać i sprawdzić, jaki język programowania wykorzystuje.
 - Znajdź w *tym* języku analogiczne struktury do tych pythona.
+- Za ich pomocą znajdź flage
 
 ## Who am I
 - Zgadnij jak działa ta strona
