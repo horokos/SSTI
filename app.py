@@ -21,7 +21,7 @@ def index():
          return render_template_string('''
          Hello, what's your name?
          <form action="{{ url_for('index') }}" method="post">
-             <input name="name">
+             <input name="name" size=100>
              <input type="submit">
          </form>
          Coś poszło nie tak :(''')
@@ -35,4 +35,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
