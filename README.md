@@ -2,13 +2,15 @@
 
 ## Jinja2
 
+### Przygotowanie
+- Użyj `git clone` by pobrać *repo* na swoją maszynę
+- Zapoznaj się z opcją `-r` komendy `pip`
+
 ### Zadanie 1
 - Korzystając z [dokumentacji](https://jinja.palletsprojects.com/en/3.0.x/templates/), zapoznaj się ze składnią Jinjy2.
 - Wykonaj proste wyrażenie arytmetyczne np.: `2+2`.
 
 ### Zadanie 2
-- Użyj `git clone` by pobrać *repo* na swoją maszynę
-- Zapoznaj się z opcją `-r` komendy `pip`
 - Zapoznaj się z budową aplikacji we Flasku: https://flask.palletsprojects.com/en/2.0.x/config/
 - Wypisz *config* aplikacji
 
@@ -26,13 +28,12 @@
 ### Zadanie 
 - Poszukaj w internecie, jak inaczej można dostać się do klasy `subprocess` lub jakiej innej klasy można użyć do wykonania tych ćwiczeń.
 
-## Mako
-
 |od tej części zadania będą wykonywane tylko w przeglądarce|
 |----------------------------------------------------------|
 
-
  - Zadanie będzie widoczne na stronie https://194.36.88.83/.
+
+## Mako
  - Zapoznaj się z odpowiednim operatorem https://dmeg.tech/images/ssti.png.
  - Spróbuj wykonać proste dodanie do tekstu za pomocą komendy `.join()`
  - Zaimportuj tę samą co w zadaniu wyżej komendę do pythona - [może pomóc ci w tym import](https://0x00sec.org/t/execute-system-commands-in-python-reference/7870).
