@@ -51,7 +51,7 @@
 - Za ich pomocą znajdź flagę.
 
 ## doT.js
-
+- Użyj analogicznej struktury jak w Jade żeby odnaleść flage
 
 ## Who am I
 - Zgadnij, jak działa ta strona.
