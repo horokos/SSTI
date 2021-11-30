@@ -35,14 +35,12 @@
  - Zadania będą widoczne na stronie https://194.36.88.83/.
 
 ## Mako
- - http://194.36.88.83:5001/
  - Zapoznaj się z odpowiednim operatorem https://dmeg.tech/images/ssti.png.
  - Spróbuj wykonać proste dodanie do tekstu za pomocą komendy `.join()`.
  - Zaimportuj tę samą co w zadaniu wyżej komendę do pythona - [może pomóc ci w tym import](https://0x00sec.org/t/execute-system-commands-in-python-reference/7870).
  - Dokładnie przyjrzyj się co się znajduje koło aplikacji - może gdzieś tam jest flaga 👀.
 
 ## Pewna PHPowa templatka
-- http://194.36.88.83:5020/
 - Zgadnij, jakiej templatki używa ta PHP-owa stronka.
 - Spróbuj znaleźć, jakie komendy w PHP-ie są używane do wykonywania systemowych poleceń.
 - Flaga jest odpowiednio zaszyfrowana - czy jesteś w stanie odgadnąć czym?
