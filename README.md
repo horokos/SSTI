@@ -32,7 +32,8 @@
 
 # Od tej części zadania będą wykonywane tylko w przeglądarce
 
- - Zadania będą widoczne na stronie https://194.36.88.83/.
+ - Zadania będą widoczne na stronie https://194.36.88.83/. 
+ - Prosimy o ustawienie prawdziwego imienia oraz nazwiska gdyż na tej podstawie będą przydzielane plusy
 
 ## Mako
  - Zapoznaj się z odpowiednim operatorem https://dmeg.tech/images/ssti.png.
