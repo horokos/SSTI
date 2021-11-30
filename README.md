@@ -45,7 +45,7 @@
 - Spróbuj znaleźć, jakie komendy w PHP-ie są używane do wykonywania systemowych poleceń.
 - Flaga jest odpowiednio zaszyfrowana - czy jesteś w stanie odgadnąć czym?
 
-## VUEjs
+## dot js
 
 
 ## Dla ambitnych zadanie: Jade. Ale gdzie?
